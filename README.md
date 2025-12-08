@@ -16,6 +16,6 @@ The GitHub audience necessarily misses out compared to
 the live audiences.
 
 You can
-[view the presentation PDF here on GitHub](https://github.com/bobvan/MeshtasticHamClubPresentation/blob/main/Meshtastic-What'sInItForMe?smaller.pdf)
+[view the presentation PDF here on GitHub](https://github.com/bobvan/MeshtasticHamClubPresentation/blob/main/Meshtastic-What'sInItForMe%3Fsmaller.pdf)
 or
-[Download it for offline viewing](https://raw.githubusercontent.com/bobvan/MeshtasticHamClubPresentation/main/Meshtastic-What'sInItForMe?smaller.pdf).
+[Download it for offline viewing](https://raw.githubusercontent.com/bobvan/MeshtasticHamClubPresentation/main/Meshtastic-What'sInItForMe%3Fsmaller.pdf).
